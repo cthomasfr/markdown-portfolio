@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Jackalope Logo](https://jackalopejazz.band/wp-content/uploads/2020/03/jackalope_design-e1583244672502.png)
